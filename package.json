@@ -2,7 +2,7 @@
   "name": "decompile-wxvpkg",
   "displayName": "decompile-wxvpkg",
   "description": "unpack *.wx[av]pkg file",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.52.0"
   },
@@ -32,7 +32,7 @@
     "commands": [
       {
         "command": "unwxvpkg.unpack",
-        "title": "Unpack wxvpkg"
+        "title": "Decompile wxvpkg"
       }
     ],
     "menus": {
